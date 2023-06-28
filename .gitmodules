@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "HaploSim"]
 	path = HaploSim
 	url = https://github.com/cran/HaploSim
-	shallow = true
-	registered = true
 [submodule "pedigree"]
 	path = pedigree
 	url = https://github.com/cran/pedigree
-	shallow = true
-	registered = true
